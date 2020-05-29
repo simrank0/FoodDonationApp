@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_marginTop="10dp"
+            android:hint="Restaurant Name"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:textColor="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"/>
+
+        <ImageView
+            android:layout_marginTop="5dp"
+            android:id="@+id/menu_img"
+            android:background="@drawable/ic_add"
+            android:layout_width="250dp"
+            android:backgroundTint="@color/colorAccent"
+            android:layout_height="400dp"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:id="@+id/menu"
+            android:layout_marginTop="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="MENU"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textSize="21sp" />
+
+        <Button
+            android:id="@+id/add"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SUBMIT"
+            android:textColor="@color/bg"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorAccent"
+            android:visibility="visible"/>
+        <Button
+            android:id="@+id/profile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PROFILE"
+            android:textColor="@color/bg"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorAccent"
+            android:visibility="invisible"/>
+
+    </LinearLayout>
+
+</ScrollView>

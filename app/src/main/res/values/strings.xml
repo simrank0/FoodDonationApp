@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Food Donation</string>
+    <string name="title_activity_main">@string/app_name</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="ans1">You must be seeing a pink coloured button on the right end of the page.
+        If you click it you\'ll be redirected to a form where you can add food description (1st column)
+        Then you have to add how much food you want to donate or want to put up a request for.
+        After adding that you can choose if it\'s a donation or a request and if you want/have the food cooked or uncooked.
+        If you are a donor you can add delivery charges if you are up for delivery or leave it to be NA and check the pick-up column
+        Press submit and your request will be posted.
+    </string>
+    <string name="ans2">If you click the hamburger item on the top left or swipe right from the left corner
+        a navigation bar will open up. There Donations item will lead you to list of donations and Request
+        item will lead you to food requests by other users. By clicking on Restaurants, you can see a list
+        of restaurants who provide food for NGO\'s or needy at a reasonably cheap prices. Also you can
+        see your donations by clicking on my donations. And the help tab is where you can submit any
+        query of yours related to this app.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">user name</string>
+</resources>

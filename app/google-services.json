@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "704858832585",
+    "firebase_url": "https://fireapp-6e67a.firebaseio.com",
+    "project_id": "fireapp-6e67a",
+    "storage_bucket": "fireapp-6e67a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704858832585:android:29df5865e98437298f1718",
+        "android_client_info": {
+          "package_name": "com.example.android.fooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704858832585-8udkop13ombjg0djrcvudblvl6cei03n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.fooddonation",
+            "certificate_hash": "748bdc16a5269536ddb5df2db7f9cbb013c1f249"
+          }
+        },
+        {
+          "client_id": "704858832585-l45ksf6loh2akv9kaq51kk6kpt51h9mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKf6kYEeC-YITGsXjUhsXMRTFtJtW2S-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704858832585-l45ksf6loh2akv9kaq51kk6kpt51h9mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
